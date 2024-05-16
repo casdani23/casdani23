@@ -1,14 +1,6 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
 
 
-
-
-
-
-
-</details>
-
-
 ## Tecnologías:
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
